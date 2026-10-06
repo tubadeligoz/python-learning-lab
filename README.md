@@ -16,6 +16,8 @@ python -m pip install -r parcel-planet/requirements.txt
 
 PyGame ile geliştirilmiş küçük bir kargo ayıklama oyunu. Paketin ağırlığını ve kırılganlığını değerlendirerek taşıma bandını seç: kırılgan paketler Hassas, kırılgan olmayan ve en az 10 kg olanlar Ağır, diğerleri Standart banda gider. Kırılganlık önceliklidir; 12 kg'lık kırılgan paket de Hassas banda gider. Doğru seçimde skor artar ve yeni paket gelir; yanlış seçimde aynı pakette tekrar deneyebilirsin.
 
+![Parcel Planet kargo ayıklama oyununun ekran görüntüsü](parcel-planet/screenshot.jpg)
+
 Gösterdiği kavramlar:
 
 - koşullar
@@ -30,6 +32,8 @@ python parcel-planet/parcel_planet.py
 ## Tiny Greenhouse
 
 Terminal üzerinden çalışan küçük bir dijital bitki uygulaması. Menü numarasını yazıp Enter'a bas: su ve ışık eylemleri ilgili değeri 20 artırır, sonraki güne geçince ikisi de 15 azalır. Gün sonunda kalan su ve ışığı 30–80 arasında tutarak bitkinin sağlığını koru. Harici kütüphane gerektirmez.
+
+![Tiny Greenhouse bitki bakım uygulamasının terminal ekran görüntüsü](tiny-greenhouse/screenshot.jpg)
 
 Gösterdiği kavramlar:
 
